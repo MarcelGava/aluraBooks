@@ -1,5 +1,7 @@
 # aluraBooks
 Projeto desenvolvido durante o curso de responsividade da Alura.
+A ideia do projeto foi desnevolver um site sobre livros voltados para programação. 
+Apesar de algumas pequenas funcionalidades, praticamente todo o projeto foi desenvolvido apenas com HTML e CSS, pois a ideia principal era realmente trabalhar com responsividade. 
 
 ## Tecnologias
 
