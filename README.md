@@ -12,4 +12,3 @@ Projeto desenvolvido durante o curso de responsividade da Alura.
 
 
 
-![image](https://user-images.githubusercontent.com/85567142/191524434-575b3202-03fd-4ffc-9eec-1f3009c76f72.png)
